@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Homepage from '../views/Homepage.vue'
 import Category from "@/views/Category";
+import Quiz from "@/views/Quiz";
 
 Vue.use(VueRouter)
 
@@ -15,6 +16,11 @@ const routes = [
     path: '/category',
     name: 'category',
     component: Category
+  },
+  {
+    path: '/category/quiz',
+    name: 'quiz',
+    component: Quiz
   }
 ]
 

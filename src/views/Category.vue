@@ -2,7 +2,7 @@
     <div class="container py-5">
         <h1 class="text-center display-2 mb-3">Планини
         </h1>
-        <div v-for="i in 5">
+        <div class="mb-4" v-for="i in 5">
             <div class="display-6 mb-2">
                 1. Осогово
             </div>
@@ -26,6 +26,11 @@
                     <img src="../assets/images/image1.jpg" alt="Image" class="img-fluid">
                 </div>
             </div>
+        </div>
+        <div class="text-end">
+            <router-link :to="{name: 'quiz'}" class="btn btn-primary">
+                Започни со квиз
+            </router-link>
         </div>
     </div>
 </template>
