@@ -24,7 +24,9 @@
                     <div v-else></div>
                     <button class="btn btn-primary" @click="nextQuestion">
                         <span v-if="currQuestionId < questions.length - 1">Следно</span>
-                        <span v-else>Заврши</span>
+                        <router-link v-else :to="{name: 'finishedQuiz'}">
+                            Заврши
+                        </router-link>
                     </button>
                 </div>
             </div>
