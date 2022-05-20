@@ -1,5 +1,5 @@
 <template>
-    <div class="container py-5">
+    <div class="container py-4">
         <h1 class="text-center display-2 mb-3">Планини
         </h1>
         <div class="mb-4" v-for="i in 5">
@@ -28,7 +28,7 @@
             </div>
         </div>
         <div class="text-end">
-            <router-link :to="{name: 'quiz'}" class="btn btn-primary">
+            <router-link :to="{name: 'login'}" class="btn btn-primary">
                 Започни со квиз
             </router-link>
         </div>
