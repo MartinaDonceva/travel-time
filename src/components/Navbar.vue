@@ -32,10 +32,14 @@
                         </ul>
                     </li>
                 </ul>
-                <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-success" type="submit">Search</button>
-                </form>
+                <div class="d-flex">
+                    <router-link :to="{name: 'login'}" class="me-2 text-white fs-6 text-decoration-none">
+                      Најава
+                    </router-link>
+                    <router-link :to="{name: 'register'}" class="text-white fs-6 text-decoration-none">
+                      Регистрација
+                    </router-link>
+                </div>
             </div>
         </div>
     </nav>
