@@ -20,7 +20,7 @@
         </div>
       </div>
       <div class="text-end">
-        <router-link :to="{name: 'login'}" class="btn btn-primary">
+        <router-link :to="{name: 'quiz', params: {id: category.id}}" class="btn btn-primary">
           Започни со квиз
         </router-link>
       </div>
