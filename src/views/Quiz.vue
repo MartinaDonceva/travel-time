@@ -1,5 +1,8 @@
 <template>
   <div class="container py-5" v-if="category && currentQuestion">
+    <router-link :to="{name: 'category', params: {id: category.id}}">
+      < Назад кон категоријата
+    </router-link>
     <div class="text-center display-6 mb-3">
       Квиз за {{category.name}}
     </div>
