@@ -1,6 +1,6 @@
 <template>
   <div class="container py-5" v-if="category && currentQuestion">
-    <router-link :to="{name: 'category', params: {id: category.id}}">
+    <router-link :to="{name: 'category', params: {id: category.id}}" class="btn btn-light">
       < Назад кон категоријата
     </router-link>
     <div class="text-center display-6 mb-3">

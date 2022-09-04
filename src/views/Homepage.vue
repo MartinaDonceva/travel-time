@@ -2,14 +2,17 @@
     <div class="container py-5">
         <div class="row">
             <div class="col col-12 col-md-6 d-flex flex-column justify-content-center h-100 mb-3">
-                <h2 class="display-6 mb-2">Lorem ipsum</h2>
+                <h2 class="display-6 mb-2">Македонија</h2>
                 <div class="fs-6">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                    and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                    leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s
-                    with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
-                    publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                  Република Македонија е лоцирана во Југоисточна Европа, во централниот дел на Балканскиот Полуостров.
+                  Има позиција на стратегиска крстосница и своевиден мост помеѓу Европа и блиските земји на Азија и на Северна Африка.
+                  Таа и припаѓа на групата земји, од таканаречениот Западен Балкан. Опкружена е со следните соседи – Србија и Косово
+                  на север, Бугарија на исток, Грција на југ и Албанија на запад.
+                  Со помош на туризмот се зголемува економскиот раст и развој на земјата, се привлекуваат нови инвестиции, се креираат
+                  нови работни места, се подобрува животниот стандард. Туризмот, исто така помага и за стимулирање на локалната индустрија
+                  и трговија, за промовирање на културните вредности и природните богатства. Како и за заштита на културното наследство
+                  и слично. Интернетот, како и електронските социјални мрежи, значително влијаат врз туризмот преку онлајн понудите на
+                  многу производи и услуги.ги
                 </div>
             </div>
             <div class="col col-12 col-md-6 mb-3 h-100">
@@ -19,14 +22,18 @@
                 <img src="../assets/images/image2.webp" alt="Image" class="img-fluid">
             </div>
             <div class="col col-12 col-md-6 order-0 order-md-1 d-flex flex-column justify-content-center h-100 mb-3">
-                <h2 class="display-6 mb-2">Lorem ipsum</h2>
+                <h2 class="display-6 mb-2">Туризам во Македонија</h2>
                 <div class="fs-6">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                    and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                    leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s
-                    with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
-                    publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                  Значењето на самиот туризам во Македонија е дел од исконската љубопитност и желбите и активностите
+                  на човекот за осознавање на светот околу себе, има многу брз тренд на развој, како во светот, така и во Македонија.
+                  Туризмот на луѓето им нуди содржинско користење на слободното време во простори, кои со својата природна и
+                  социјална карактеристика се основа за нови атрактивни доживувања и за релаксирање. Туризмот како стопанска гранка
+                  е значаен предизвик и за економскиот развој на земјите.
+                  Македонија има потенцијал за многу видови туризам, но најголем интерес има за културниот, верскиот, активниот и
+                  за руралниот туризам, потоа има интерес и за нашата храна, нашите винарии, како и интерес за посета на нашите
+                  најголеми природни езера – Охридско езеро, Преспанско езеро и Дојранско езеро. Во поново време се понагласена е
+                  потребата од развој на активниот туризам во Македонија. Алтернативниот и авантуристичкиот туризам, за кои постојат
+                  одлични услови – питоми и стрмни планини, скијачки терени, мирни и брзи реки, широки низини…
                 </div>
             </div>
         </div>
