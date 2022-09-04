@@ -19,6 +19,10 @@
              {{ answer.text }}
            </label>
          </div>
+         <div v-if="choice" class="fs-6 mb-3 text-decoration-underline text-primary cursor-pointer"
+         @click="choice = null">
+           Отселектирај избор
+         </div>
          <div class="d-flex align-items-center justify-content-between mt-3">
            <button class="btn btn-primary" @click="prevQuestion" v-if="currQuestionId > 0">
              Назад
@@ -89,5 +93,7 @@ export default {
 </script>
 
 <style scoped>
-
+.cursor-pointer {
+  cursor: pointer;
+}
 </style>
